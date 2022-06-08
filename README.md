@@ -146,3 +146,5 @@ sm64
 ├── textures: skybox and generic texture data
 └── tools: build tools
 ```
+
+I have to mention that I didn't help with this project in any way. I'm just a Puerto Rican visual artist who wants to preserve this project so it doesn't get lost.
